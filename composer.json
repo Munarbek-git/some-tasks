@@ -1,0 +1,15 @@
+{
+    "name": "task/task2",
+    "authors": [
+        {
+            "name": "Esenov Munarbek",
+            "email": "munarbek.esenov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
